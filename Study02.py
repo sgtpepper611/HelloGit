@@ -1,4 +1,6 @@
-for i in range(5):
-    if i == 3:
-        continue
-    print(i)  # 0 1 2 4
+print('あなたの名前を教えてください。')
+
+your_name = input('>> ')
+
+print('こんにちは! {} さん!'.format(your_name))
+
