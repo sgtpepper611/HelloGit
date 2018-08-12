@@ -1,4 +1,4 @@
-class TestClass:
+class TestClass:  #インポート
  
     def __init__(self):
         print('create TestClass')
