@@ -1,4 +1,4 @@
-test_list_1 = ['python', '-', 'izm', '.', 'com']
+test_list_1 = ['python', '-', 'sgt', '.', 'com']
 print(test_list_1)
 
 print('--------------------------------')
@@ -13,13 +13,13 @@ print('--------------------------------')
 
 test_list_2.append('python')
 test_list_2.append('-')
-test_list_2.append('izm')
+test_list_2.append('sgt')
 test_list_2.append('.')
 test_list_2.append('com')
 
 print(test_list_2)
 
-test_list_3 = ['python', 'izm', 'com']
+test_list_3 = ['python', 'sgt', 'com']
 print(test_list_3)
 
 print('--------------------------------')
