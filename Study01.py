@@ -5,6 +5,6 @@ def test():
 
 if __name__ == '__main__':
 
-    print('python-izm')
-#   print('パイソンイズム')
+    print('python-sgt')
+#   print('パイソン')
     test()
