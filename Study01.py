@@ -6,5 +6,5 @@ def test():
 if __name__ == '__main__':
 
     print('python-sgt')
-#   print('パイソン')
+#   print('パイソンエスジーティー')
     test()
