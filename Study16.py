@@ -30,3 +30,15 @@ elif value_1 == 'python' and value_2 == 'sgt':
     print('2番目の条件式がTrue')
 elif value_1 == "SGT" or value_2 == "PYTHON":
     print('3番目の条件式がTrue')
+
+is_male = True
+is_tall = True
+
+if is_male and is_tall:
+    print("You are a tall male")
+elif is_male and not(is_tall):
+    print("You are a short male")
+elif not(is_male) and is_tall:
+    print("You are not a male but are tall")
+else:
+    print("You neither not male or not tall or both")
